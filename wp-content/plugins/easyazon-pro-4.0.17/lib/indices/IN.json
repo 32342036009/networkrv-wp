@@ -1,0 +1,283 @@
+[
+  {
+    "key": "All",
+    "name": "All",
+    "node": "",
+    "sort": []
+  },
+  {
+    "key": "Apparel",
+    "name": "Apparel",
+    "node": "",
+    "sort": [
+      "relevancerank",
+      "price",
+      "-price",
+      "reviewrank_authority",
+      "date-desc-rank"
+    ]
+  },
+  {
+    "key": "Baby",
+    "name": "Baby",
+    "node": "1571275031",
+    "sort": [
+      "relevancerank",
+      "salesrank",
+      "price",
+      "-price",
+      "reviewrank",
+      "reviewrank_authority",
+      "date-desc-rank"
+    ]
+  },
+  {
+    "key": "Beauty",
+    "name": "Beauty",
+    "node": "1355017031",
+    "sort": [
+      "relevancerank",
+      "salesrank",
+      "price",
+      "-price",
+      "reviewrank",
+      "reviewrank_authority",
+      "date-desc-rank"
+    ]
+  },
+  {
+    "key": "Books",
+    "name": "Books",
+    "node": "976390031",
+    "sort": [
+      "relevancerank",
+      "salesrank",
+      "price",
+      "-price",
+      "reviewrank",
+      "reviewrank_authority"
+    ]
+  },
+  {
+    "key": "DVD",
+    "name": "DVD",
+    "node": "976417031",
+    "sort": [
+      "relevancerank",
+      "salesrank",
+      "price",
+      "inverse-pricerank",
+      "-price",
+      "reviewrank",
+      "reviewrank_authority",
+      "releasedate",
+      "daterank"
+    ]
+  },
+  {
+    "key": "Electronics",
+    "name": "Electronics",
+    "node": "976420031",
+    "sort": [
+      "relevancerank",
+      "salesrank",
+      "price",
+      "-price",
+      "reviewrank",
+      "reviewrank_authority",
+      "date-desc-rank"
+    ]
+  },
+  {
+    "key": "GiftCards",
+    "name": "GiftCards",
+    "node": "",
+    "sort": [
+      "relevancerank",
+      "salesrank",
+      "price",
+      "-price",
+      "-reviewrank_authority",
+      "reviewrank",
+      "date-desc-rank"
+    ]
+  },
+  {
+    "key": "Grocery",
+    "name": "Grocery",
+    "node": "",
+    "sort": [
+      "relevancerank",
+      "popularityrank",
+      "price",
+      "-price",
+      "reviewrank",
+      "-release-date"
+    ]
+  },
+  {
+    "key": "HealthPersonalCare",
+    "name": "HealthPersonalCare",
+    "node": "",
+    "sort": [
+      "relevancerank",
+      "salesrank",
+      "price",
+      "-price",
+      "reviewrank_authority",
+      "date-desc-rank"
+    ]
+  },
+  {
+    "key": "HomeGarden",
+    "name": "HomeGarden",
+    "node": "2454176031",
+    "sort": [
+      "relevancerank",
+      "salesrank",
+      "price",
+      "-price",
+      "reviewrank",
+      "reviewrank_authority",
+      "date-desc-rank"
+    ]
+  },
+  {
+    "key": "Jewelry",
+    "name": "Jewelry",
+    "node": "1951049031",
+    "sort": [
+      "relevancerank",
+      "price",
+      "-price",
+      "popularity-rank",
+      "reviewrank",
+      "reviewrank_authority"
+    ]
+  },
+  {
+    "key": "Luggage",
+    "name": "Luggage",
+    "node": "2454170031",
+    "sort": [
+      "relevancerank",
+      "price",
+      "-price",
+      "reviewrank",
+      "reviewrank_authority",
+      "date-desc-rank",
+      "popularity-rank"
+    ]
+  },
+  {
+    "key": "Music",
+    "name": "Music",
+    "node": "976446031",
+    "sort": [
+      "relevancerank",
+      "salesrank",
+      "price",
+      "-price",
+      "reviewrank",
+      "reviewrank_authority",
+      "-releasedate"
+    ]
+  },
+  {
+    "key": "PCHardware",
+    "name": "PCHardware",
+    "node": "976393031",
+    "sort": [
+      "relevancerank",
+      "salesrank",
+      "price",
+      "-price",
+      "reviewrank",
+      "reviewrank_authority",
+      "date-desc-rank"
+    ]
+  },
+  {
+    "key": "PetSupplies",
+    "name": "PetSupplies",
+    "node": "",
+    "sort": [
+      "salesrank",
+      "price",
+      "-price",
+      "titlerank",
+      "-titlerank",
+      "relevance",
+      "relevancerank",
+      "reviewrank",
+      "reviewrank_authority"
+    ]
+  },
+  {
+    "key": "Shoes",
+    "name": "Shoes",
+    "node": "",
+    "sort": [
+      "relevancerank",
+      "salesrank",
+      "price",
+      "-price",
+      "reviewrank_authority",
+      "date-desc-rank"
+    ]
+  },
+  {
+    "key": "SportingGoods",
+    "name": "SportingGoods",
+    "node": "",
+    "sort": [
+      "relevancerank",
+      "price",
+      "-price",
+      "popularity-rank",
+      "reviewrank_authority",
+      "date-desc-rank"
+    ]
+  },
+  {
+    "key": "Toys",
+    "name": "Toys",
+    "node": "1350381031",
+    "sort": [
+      "relevancerank",
+      "salesrank",
+      "price",
+      "-price",
+      "reviewrank",
+      "reviewrank_authority",
+      "date-desc-rank"
+    ]
+  },
+  {
+    "key": "VideoGames",
+    "name": "VideoGames",
+    "node": "976461031",
+    "sort": [
+      "relevancerank",
+      "salesrank",
+      "price",
+      "-price",
+      "reviewrank",
+      "reviewrank_authority",
+      "-releasedate"
+    ]
+  },
+  {
+    "key": "Watches",
+    "name": "Watches",
+    "node": "1350388031",
+    "sort": [
+      "relevancerank",
+      "price",
+      "-price",
+      "popularity-rank",
+      "reviewrank",
+      "reviewrank_authority"
+    ]
+  }
+]

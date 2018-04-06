@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.surveygang.com/</loc>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://www.surveygang.com/forgotpassword</loc>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://www.surveygang.com/surveyresults</loc>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://www.surveygang.com/page/5</loc>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://www.surveygang.com/page/3</loc>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://www.surveygang.com/surveyresults/?page=1&amp;type=Pie</loc>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://www.surveygang.com/surveyresults/?page=1&amp;type=Bar</loc>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://www.surveygang.com/surveyresults/?page=1&amp;type=Trend</loc>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://www.surveygang.com/surveyresults/?page=2&amp;type=Pie</loc>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://www.surveygang.com/surveyresults/?page=2&amp;type=Bar</loc>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://www.surveygang.com/surveyresults/?page=2&amp;type=Trend</loc>
+  <changefreq>always</changefreq>
+</url>
+</urlset>

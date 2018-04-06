@@ -1,0 +1,19 @@
+#easyazon-settings-wrap .nav-tab:focus {
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	-ms-box-shadow: none;
+	-o-box-shadow: none;
+	box-shadow: none;
+}
+
+.easyazon-bullet-list {
+	list-style: disc;
+	padding-left: 2em;
+}
+
+.nav-tab-wrapper .easyazon-title-wrapper,
+.nav-tab-wrapper .easyazon-title-wrapper:hover {
+	background: transparent;
+	border-color: transparent;
+	color: #000000;
+}

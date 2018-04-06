@@ -1,0 +1,36 @@
+[
+  {
+    "key": "All",
+    "name": "All",
+    "node": "",
+    "sort": []
+  },
+  {
+    "key": "Books",
+    "name": "Books",
+    "node": "",
+    "sort": [
+      "relevancerank",
+      "salesrank",
+      "price",
+      "-price",
+      "reviewrank_authority",
+      "daterank"
+    ]
+  },
+  {
+    "key": "KindleStore",
+    "name": "KindleStore",
+    "node": "5308308011",
+    "sort": [
+      "relevancerank",
+      "paidsalesrank",
+      "salesrank",
+      "price",
+      "-price",
+      "reviewrank",
+      "reviewrank_authority",
+      "daterank"
+    ]
+  }
+]

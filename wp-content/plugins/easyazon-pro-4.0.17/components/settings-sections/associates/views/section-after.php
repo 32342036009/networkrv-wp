@@ -1,0 +1,1 @@
+<p><?php _e('With EasyAzon Pro, you can enter multiple Tracking IDs separated by commas.'); ?></p>

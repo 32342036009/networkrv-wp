@@ -1,0 +1,21 @@
+SQL: SELECT * FROM wp_oiopub_config
+Error: Table 'webdevel_networkrv.wp_oiopub_config' doesn't exist
+
+SQL: INSERT INTO wp_oiopub_config (name,value) VALUES ('plugin_url_saved','http://webdevelopers1.com/networkrv/wp-content/plugins/oiopub-direct')
+Error: Table 'webdevel_networkrv.wp_oiopub_config' doesn't exist
+
+SQL: SELECT value FROM wp_oiopub_config WHERE name='site_name'
+Error: Table 'webdevel_networkrv.wp_oiopub_config' doesn't exist
+
+SQL: INSERT INTO wp_oiopub_config (name,value,api_load) VALUES ('site_name','networkrv','0')
+Error: Table 'webdevel_networkrv.wp_oiopub_config' doesn't exist
+
+SQL: SELECT value FROM wp_oiopub_config WHERE name='admin_mail'
+Error: Table 'webdevel_networkrv.wp_oiopub_config' doesn't exist
+
+SQL: INSERT INTO wp_oiopub_config (name,value,api_load) VALUES ('admin_mail','admin@gmaiil.com','0')
+Error: Table 'webdevel_networkrv.wp_oiopub_config' doesn't exist
+
+SQL: SHOW CREATE TABLE wp_oiopub_purchases
+Error: Table 'webdevel_networkrv.wp_oiopub_purchases' doesn't exist
+

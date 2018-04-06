@@ -1,0 +1,107 @@
+[01-07-2017 08:28:35] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[01-07-2017 08:29:34] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "http://rvdailyreport.com/category/opinion/feed/". cURL error 28: Connection timed out after 30001 milliseconds
+
+[01-07-2017 08:30:05] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "http://rvdailyreport.com/category/opinion/feed/". cURL error 28: Connection timed out after 30000 milliseconds
+
+
+[01-07-2017 08:33:03] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "http://www.rvia.org/rss/RVIANewsItems.xml". cURL error 28: Connection timed out after 30001 milliseconds
+
+
+[01-07-2017 08:39:34] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "http://www.rvia.org/rss/RVIANewsItems.xml". cURL error 28: Connection timed out after 30001 milliseconds
+
+
+[01-07-2017 08:49:34] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "http://www.rvia.org/rss/RVIANewsItems.xml". cURL error 28: Connection timed out after 30001 milliseconds
+
+
+[01-07-2017 08:59:34] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "http://www.rvia.org/rss/RVIANewsItems.xml". cURL error 28: Connection timed out after 30001 milliseconds
+
+
+[01-07-2017 09:09:34] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "http://www.rvia.org/rss/RVIANewsItems.xml". cURL error 28: Connection timed out after 30000 milliseconds
+
+
+[01-07-2017 09:19:38] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "http://www.rvia.org/rss/RVIANewsItems.xml". cURL error 28: Connection timed out after 30000 milliseconds
+
+
+[01-07-2017 09:29:39] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "http://www.rvia.org/rss/RVIANewsItems.xml". cURL error 28: Connection timed out after 30001 milliseconds
+
+
+[01-07-2017 09:39:35] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "http://www.rvia.org/rss/RVIANewsItems.xml". cURL error 28: Connection timed out after 30000 milliseconds
+
+
+[01-07-2017 09:49:57] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "http://www.rvia.org/rss/RVIANewsItems.xml". cURL error 28: Connection timed out after 30000 milliseconds
+
+
+[01-07-2017 09:49:59] [Error] WPRSS:
+The feed URL is not valid! Please recheck: 
+
+
+[01-07-2017 10:00:26] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "http://www.rvia.org/rss/RVIANewsItems.xml". cURL error 28: Connection timed out after 30000 milliseconds
+
+
+[01-07-2017 10:06:48] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://www.rvtechmag.com/whats_new.xml". cURL error 28: Connection timed out after 30001 milliseconds
+
+
+[01-07-2017 10:08:24] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "http://www.rvia.org/rss/RVIANewsItems.xml". cURL error 28: Connection timed out after 30001 milliseconds
+
+
+[01-07-2017 11:08:07] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://www.rvtechmag.com/whats_new.xml". cURL error 28: Connection timed out after 30001 milliseconds
+
+
+[01-07-2017 12:08:41] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://www.rvtechmag.com/whats_new.xml". cURL error 28: Connection timed out after 30001 milliseconds
+
+
+[01-07-2017 13:06:51] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://www.rvtechmag.com/whats_new.xml". cURL error 28: Connection timed out after 30001 milliseconds
+
+
+[01-07-2017 17:20:14] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://www.rvtechmag.com/whats_new.xml". cURL error 28: Connection timed out after 30000 milliseconds
+
+
+[03-07-2017 04:50:24] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://www.rvtechmag.com/whats_new.xml". cURL error 28: Connection timed out after 30000 milliseconds
+
+
+[03-07-2017 05:26:17] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://www.rvtechmag.com/whats_new.xml". cURL error 28: Connection timed out after 30000 milliseconds
+
+
+[03-07-2017 06:08:38] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://www.rvtechmag.com/whats_new.xml". cURL error 28: Connection timed out after 30001 milliseconds
+
+
+[03-07-2017 07:07:45] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://www.rvtechmag.com/whats_new.xml". cURL error 28: Connection timed out after 30001 milliseconds
+
+
+[03-07-2017 08:06:44] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://www.rvtechmag.com/whats_new.xml". cURL error 28: Connection timed out after 30000 milliseconds
+
+
+[03-07-2017 09:07:25] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://www.rvtechmag.com/whats_new.xml". cURL error 28: Connection timed out after 30000 milliseconds
+
+
+[03-07-2017 10:06:46] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://www.rvtechmag.com/whats_new.xml". cURL error 28: Connection timed out after 30001 milliseconds
+
+

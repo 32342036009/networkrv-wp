@@ -1,0 +1,13 @@
+.easyazon-block-image {
+	text-align: center;
+}
+
+.easyazon-block-information-prices,
+.easyazon-block-information-prices th,
+.easyazon-block-information-prices td {
+	border: 0;
+}
+
+.easyazon-block-information-price-label {
+	text-align: right;
+}

@@ -1,0 +1,66 @@
+.easyazon-popup-state-image-choices-container {
+	padding: 0.9em 0;
+}
+
+.easyazon-popup-state-image-choices-choice {
+	display: block;
+	float: left;
+	margin-bottom: 0.9em;
+	margin-right: 0.9em;
+	padding: 0.9em;
+	position: relative;
+	text-align: center;
+	width: 8em;
+}
+
+.easyazon-popup-state-image-choices-choice-selector {
+	display: none !important;
+}
+
+.easyazon-popup-state-image-choices-choice-frame {
+	border: 3px solid #999999;
+	bottom: 0;
+	display: block;
+	left: 0;
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+
+.easyazon-popup-state-image-choices-choice-selector:checked + .easyazon-popup-state-image-choices-choice-frame {
+	border: 3px solid #1e8cbe;
+}
+
+.easyazon-popup-state-image-choices-choice-image-layout {
+	display: table;
+	position: relative;
+	width: 100%;
+}
+
+.easyazon-popup-state-image-choices-choice-image-layout-inner {
+	display: table-row;
+}
+
+.easyazon-popup-state-image-choices-choice-image-layout-final {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.easyazon-popup-state-image-choices-choice-image-sizer {
+	display: block;
+	height: 8em;
+	width: 8em;
+}
+
+.easyazon-popup-state-image-choices-choice-image {
+	display: inline;
+	height: auto;
+	max-height: 100% !important;
+	max-width: 100% !important;
+	width: auto;
+}
+
+.easyazon-popup-state-image-choices-choice-dimensions {
+	display: block;
+	font-weight: 700;
+}

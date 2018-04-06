@@ -1,0 +1,297 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Ads – Responsive Ads\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-20 09:57+0000\n"
+"PO-Revision-Date: 2017-03-20 10:07+0000\n"
+"Last-Translator: admin <post@webzunft.de>\n"
+"Language-Team: German\n"
+"Language: de-DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Loco-Target-Locale: de_DE"
+
+#: admin/admin.php:102 modules/amp/admin/admin.php:39
+msgid "Responsive"
+msgstr ""
+
+#: admin/admin.php:128
+msgid "Responsive Image Ads"
+msgstr ""
+
+#: admin/admin.php:137
+msgid "Reload ads on resize"
+msgstr "Anzeigen neuladen"
+
+#: classes/plugin.php:108
+msgid "tablet"
+msgstr "Tablet"
+
+#: classes/plugin.php:109
+msgid "Display ads based on tablet device."
+msgstr "Anzeigen für Tablets einblenden."
+
+#: admin/views/setting_reload_ads.php:9
+msgid "Reload ads that are loaded via cache-busting when screen resizes."
+msgstr ""
+"Anzeigen neu laden, sobald sich die Bildschirmbreite ändert. Funktioniert "
+"nur, wenn cache-busting aktiv ist."
+
+#: admin/views/setting_reload_ads.php:11
+#, php-format
+msgid ""
+"You need <a href=\"%s\" target=\"_blank\">Advanced Ads Pro</a> and cache-"
+"busting in order to use this feature."
+msgstr ""
+"Du benötigst <a href=\"%s\" target=\"_blank\">Advanced Ads Pro</a> mit cache-"
+"busting, um diese Funktion zu nutzen."
+
+#: admin/views/setting_responsive_images.php:2
+msgid ""
+"Check this option if the size of image ads is not adjusted responsively by "
+"your theme."
+msgstr ""
+"Aktiviere diese Option, wenn die Größe von Bildanzeigen nicht dynamisch von "
+"deinem Theme angepasst wird."
+
+#: modules/amp/admin/admin.php:39
+msgid "Normal"
+msgstr ""
+
+#: modules/amp/admin/admin.php:39 modules/gadsense/includes/hooking.php:50
+msgid "advanced"
+msgstr "erweitert"
+
+#: modules/amp/admin/admin.php:40
+#, php-format
+msgid "Currently %s types are visible on AMP pages"
+msgstr "Aktuell sind die Anzeigentypen %s auf AMP-Seiten sichtbar"
+
+#: modules/amp/admin/admin.php:98
+msgid "is"
+msgstr "ist"
+
+#: modules/amp/admin/admin.php:99
+msgid "is not"
+msgstr "ist nicht"
+
+#: modules/amp/include/class-ad-type-amp.php:16
+msgid "AMP"
+msgstr ""
+
+#: modules/amp/include/class-ad-type-amp.php:17
+msgid "Ads that are visible on Accelerated Mobile Pages"
+msgstr "Anzeigen, die auf AMP-Seiten sichtbar sind"
+
+#: modules/amp/public/public.php:240
+msgid "Accelerated Mobile Pages"
+msgstr "AMP (Accelerated Mobile Pages)"
+
+#: modules/amp/public/public.php:241
+msgid "Display ads on Accelerated Mobile Pages"
+msgstr "Anzeigen auf AMP (Accelerated Mobile Pages) einblenden."
+
+#: modules/gadsense/includes/hooking.php:47
+msgid "horizontal"
+msgstr "horizontal"
+
+#: modules/gadsense/includes/hooking.php:48
+msgid "rectangle"
+msgstr "rechteckig"
+
+#: modules/gadsense/includes/hooking.php:49
+msgid "vertical"
+msgstr "vertikal"
+
+#: modules/amp/admin/views/ad-params.php:1
+msgid "Attributes"
+msgstr "Attribute"
+
+#: modules/amp/admin/views/ad-params.php:6
+msgid "Name"
+msgstr "Name"
+
+#: modules/amp/admin/views/ad-params.php:7
+msgid "Value"
+msgstr "Wert"
+
+#: modules/amp/admin/views/ad-params.php:25
+msgid "Add attribute"
+msgstr "Attribut hinzufügen"
+
+#: modules/amp/admin/views/ad-params.php:33
+msgid "Fallback"
+msgstr "Fallback"
+
+#: modules/amp/admin/views/ad-params.php:36
+msgid ""
+" If supported by the ad network, this text is shown if no ad is available "
+"for the ad slot"
+msgstr ""
+"Dieser Text erscheint, wenn das Anzeigennetzwerk keine Anzeige liefern kann. "
+"Viele Netzwerke unterstützen Fallbacks jedoch noch nicht."
+
+#. Name of the plugin
+msgid "Advanced Ads – Responsive Ads"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wpadvancedads.com/add-ons/responsive-ads/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Thomas Maier"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpadvancedads.com"
+msgstr ""
+
+#: admin/admin.php:68
+#, php-format
+msgid ""
+"<strong>Advanced Ads – Responsive Ads</strong> is an extension for the "
+"Advanced Ads plugin. Please visit <a href=\"%s\" target=\"_blank\" >"
+"wpadvancedads.com</a> to download it for free."
+msgstr ""
+"<strong>Advanced Ads – Responsive Ads</strong> ist eine Erweiterung für das "
+"Advanced Ads Plugin. Sie erhalten können es von <a href=\"%s\" "
+"target=\"_blank\" >wpadvancedads.com</a> kostenlos herunterladen."
+
+#: admin/admin.php:111 admin/admin.php:220 admin/admin.php:220
+#: admin/views/list.php:3
+msgid "Responsive Ads"
+msgstr "Responsive Anzeigen"
+
+#: admin/admin.php:119
+msgid "Activate size assistant"
+msgstr "Breiten-Assistent aktivieren"
+
+#: classes/plugin.php:102
+msgid "browser width"
+msgstr "Browserbreite"
+
+#: classes/plugin.php:103
+msgid "Display ads based on the browser width."
+msgstr "Anzeigen anhand der Browserbreite einblenden."
+
+#: public/public.php:138
+msgid "window width"
+msgstr "Fensterbreite"
+
+#: public/public.php:139
+msgid "ad size"
+msgstr "Anzeigengröße"
+
+#: public/public.php:140
+msgid "container width"
+msgstr "Container-Breite"
+
+#: admin/views/list.php:5
+msgid "Not enough responsive ads to list them."
+msgstr "Nicht genug responsive Anzeigen vorhanden um sie aufzulisten."
+
+#: admin/views/list.php:10
+msgid "ad group"
+msgstr "Anzeigengruppe"
+
+#: admin/views/list.php:11
+msgid "ad"
+msgstr "Anzeige"
+
+#: admin/views/list.php:24
+msgid "(ads without groups)"
+msgstr "(Anzeigen ohne Gruppen)"
+
+#: admin/views/overview.php:2
+msgid "List of responsive ads by browser width"
+msgstr "Responsive Anzeigen nach Browserbreite"
+
+#: admin/views/overview.php:5
+msgid "Visit the manual"
+msgstr "Anleitung besuchen"
+
+#: admin/views/setting_tooltip.php:3
+msgid "on"
+msgstr "an"
+
+#: admin/views/setting_tooltip.php:5
+msgid "off"
+msgstr "aus"
+
+#: admin/views/setting_tooltip.php:7
+msgid ""
+"Display the sizes of the ads, ad containers and window in the frontend. Only "
+"logged in admin users will see it."
+msgstr ""
+"Größe der Anzeige, des Containers und Fensters im Frontend für eingeloggte "
+"Nutzer anzeigen."
+
+#: modules/gadsense/admin/admin.php:60
+#: modules/gadsense/admin/views/ad-params-manual-css.php:57
+msgid "Remove this rule"
+msgstr "Regel entfernen"
+
+#: modules/gadsense/admin/admin.php:61
+#: modules/gadsense/admin/views/ad-params-manual-css.php:58
+msgid "remove"
+msgstr "entfernen"
+
+#: modules/gadsense/admin/admin.php:62
+msgid "Not Displayed"
+msgstr "Nicht angezeigt"
+
+#: modules/gadsense/admin/views/ad-params-manual-css.php:8
+#, php-format
+msgid ""
+"Need help? Take a look at the <a href=\"%s\" target=\"_blank\">tutorial</a>."
+msgstr ""
+"Hilfe benötigt? Zum <a href=\"%s\" target=\"_blank\">Tutorial (engl.)</a>."
+
+#: modules/gadsense/admin/views/ad-params-manual-css.php:12
+msgid "min. browser width"
+msgstr "min. Browserbreite"
+
+#: modules/gadsense/admin/views/ad-params-manual-css.php:13
+msgid "ad width"
+msgstr "Anzeigenbreite"
+
+#: modules/gadsense/admin/views/ad-params-manual-css.php:14
+msgid "ad height"
+msgstr "Anzeigenhöhe"
+
+#: modules/gadsense/admin/views/ad-params-manual-css.php:15
+msgid "hidden"
+msgstr "versteckt"
+
+#: modules/gadsense/admin/views/ad-params-manual-css.php:20
+msgid "Default"
+msgstr "Standard"
+
+#: modules/gadsense/admin/views/ad-params-manual-css.php:23
+#: modules/gadsense/admin/views/ad-params-manual-css.php:29
+msgid "Hide for this size ?"
+msgstr "Für diese Breite verbergen?"
+
+#: modules/gadsense/admin/views/ad-params-manual-css.php:32
+msgid "Add rule"
+msgstr "Regel hinzufügen"
+
+#: modules/gadsense/admin/views/ad-params-manual-css.php:46
+msgid "Not displayed"
+msgstr "Nicht angezeigt"
+
+#. Description of the plugin
+msgid "Display ads based on browser size."
+msgstr "Anzeigen anhand der Browserbreite einblenden."

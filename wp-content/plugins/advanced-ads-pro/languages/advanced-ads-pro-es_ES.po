@@ -1,0 +1,1004 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Ads Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-11 10:03+0000\n"
+"PO-Revision-Date: 2017-07-11 10:03+0000\n"
+"Last-Translator: Thomas Maier <post@webzunft.de>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es-ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: es_ES\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: views/overview.php:1
+msgid "Installed."
+msgstr ""
+
+#: modules/advanced-display-conditions/main.class.php:44
+#: modules/advanced-display-conditions/main.class.php:63
+#, php-format
+msgid "%s template"
+msgstr ""
+
+#: modules/advanced-display-conditions/main.class.php:45
+#: modules/advanced-display-conditions/main.class.php:64
+#, php-format
+msgid "Display ads based on the template of the %s post type."
+msgstr ""
+
+#: modules/advanced-display-conditions/main.class.php:81
+msgid "parent page"
+msgstr ""
+
+#: modules/advanced-display-conditions/main.class.php:82
+msgid "Display ads based on parent page."
+msgstr ""
+
+#: modules/advanced-display-conditions/main.class.php:88
+msgid "post meta"
+msgstr ""
+
+#: modules/advanced-display-conditions/main.class.php:89
+msgid "Display ads based on post meta."
+msgstr ""
+
+#: modules/advanced-display-conditions/main.class.php:323
+#: modules/advanced-display-conditions/main.class.php:373
+#: modules/advanced-visitor-conditions/main.class.php:307
+#: modules/paid-memberships-pro/main.class.php:112
+#: modules/paid-memberships-pro/main.class.php:229
+msgid "is"
+msgstr ""
+
+#: modules/advanced-display-conditions/main.class.php:324
+#: modules/advanced-display-conditions/main.class.php:374
+#: modules/advanced-visitor-conditions/main.class.php:308
+#: modules/paid-memberships-pro/main.class.php:113
+#: modules/paid-memberships-pro/main.class.php:230
+msgid "is not"
+msgstr ""
+
+#: modules/advanced-display-conditions/main.class.php:419
+msgid "any of"
+msgstr ""
+
+#: modules/advanced-display-conditions/main.class.php:420
+msgid "all of"
+msgstr ""
+
+#: modules/advanced-display-conditions/main.class.php:421
+msgid "meta key"
+msgstr ""
+
+#: modules/advanced-visitor-conditions/main.class.php:348
+msgctxt "visitor condition operator for cookies"
+msgid "is"
+msgstr ""
+
+#: modules/advanced-visitor-conditions/main.class.php:349
+msgctxt "visitor condition operator for cookies"
+msgid "is not"
+msgstr ""
+
+#: modules/cache-busting/admin-ui.class.php:22
+#: modules/cache-busting/cache-busting.class.php:859
+msgctxt "setting label"
+msgid "ajax"
+msgstr ""
+
+#: modules/cache-busting/admin-ui.class.php:23
+#: modules/cache-busting/cache-busting.class.php:868
+msgctxt "setting label"
+msgid "off"
+msgstr ""
+
+#: modules/cache-busting/admin-ui.class.php:24
+msgctxt "setting label"
+msgid "auto"
+msgstr ""
+
+#: modules/cache-busting/admin-ui.class.php:43
+msgctxt "placement admin label"
+msgid "Cache-busting"
+msgstr ""
+
+#: modules/cache-busting/admin-ui.class.php:100
+msgid ""
+"The <em>Ad Group</em> ad type can only use AJAX or no cache-busting, but not "
+"passive cache-busting."
+msgstr ""
+
+#: modules/cache-busting/cache-busting.class.php:871
+msgctxt "placement admin label"
+msgid "Cache-busting:"
+msgstr ""
+
+#: modules/grids/admin.class.php:52
+msgid "Minimum width of a column in the grid."
+msgstr ""
+
+#: modules/inject-content/admin.class.php:97
+msgid "or enter manually"
+msgstr ""
+
+#: modules/inject-content/inject-content.class.php:435
+#, php-format
+msgid "quote (%s)"
+msgstr ""
+
+#: modules/paid-memberships-pro/main.class.php:29
+msgid "PMP page level"
+msgstr ""
+
+#: modules/paid-memberships-pro/main.class.php:30
+msgid ""
+"Display ads only on pages that need a specific membership level set with "
+"PaidMembershipsPro."
+msgstr ""
+
+#: modules/paid-memberships-pro/main.class.php:126
+#: modules/paid-memberships-pro/main.class.php:243
+msgid "No membership levels set up yet."
+msgstr ""
+
+#: modules/paid-memberships-pro/main.class.php:144
+msgid "PMP user level"
+msgstr ""
+
+#: modules/paid-memberships-pro/main.class.php:145
+msgid ""
+"Display ads only to users with a specific membership level set with "
+"PaidMembershipsPro."
+msgstr ""
+
+#: modules/inject-content/views/setting_placement_test_weight.php:7
+msgid "Test weight"
+msgstr ""
+
+#: modules/inject-content/views/settings_test_expiry_date.php:10
+msgid "Month"
+msgstr ""
+
+#: modules/inject-content/views/settings_test_expiry_date.php:19
+msgid "Day"
+msgstr ""
+
+#: modules/inject-content/views/settings_test_expiry_date.php:20
+msgid "Year"
+msgstr ""
+
+#: modules/inject-content/views/settings_test_expiry_date.php:21
+msgid "Hour"
+msgstr ""
+
+#: modules/inject-content/views/settings_test_expiry_date.php:22
+msgid "Minute"
+msgstr ""
+
+#: classes/advanced-ads-pro-admin.php:71
+msgid "Activate modules"
+msgstr "Activar módulos"
+
+#: classes/advanced-ads-pro-admin.php:76
+msgid "Other Settings"
+msgstr "Otras Configuraciones"
+
+#: classes/advanced-ads-pro-admin.php:81
+msgid "Disable Autoptimize support"
+msgstr "Deshabilitar soporte para Autoptimize"
+
+#: classes/advanced-ads-pro-admin.php:191 classes/advanced-ads-pro.php:177
+msgid "Ad Admin"
+msgstr "Super Administrador de Anuncios"
+
+#: classes/advanced-ads-pro-admin.php:192 classes/advanced-ads-pro.php:187
+msgid "Ad Manager"
+msgstr "Administrador de Anuncios"
+
+#: classes/advanced-ads-pro-admin.php:193 classes/advanced-ads-pro.php:196
+msgid "Ad User"
+msgstr "Usuario de Anuncios"
+
+#: classes/advanced-ads-pro-admin.php:194
+msgid "--no role--"
+msgstr "--Sin rol--"
+
+#: classes/advanced-ads-pro-admin.php:199
+msgid "Advanced Ads User Role"
+msgstr "Rol de Usuario de Advanced Ads"
+
+#: classes/advanced-ads-pro-admin.php:202
+msgid "Ad User Role"
+msgstr "Rol de Usuario de Anuncios"
+
+#: classes/advanced-ads-pro-admin.php:209
+msgid ""
+"Please note, with the last update, the “Ad Admin“ and “Ad Manager“ roles "
+"have the “upload_files“ and the “unfiltered_html“ capabilities."
+msgstr ""
+"Por favor, ten presente que con la última actualización, los roles del "
+"\"Super Administrador de Anuncios\" y el \"Administrador de Anuncios\" "
+"tienen las capacidades de \"subir_archivos\" y \"html_no_ filtrado\""
+
+#: classes/advanced-ads-pro-admin.php:260
+#, php-format
+msgid ""
+"Enable the Advanced Visitor Conditions <a href=\"%s\" target=\"_blank\">in "
+"the settings</a>."
+msgstr ""
+"Habilita las Condiciones Avanzadas del Visitante <a href=\"%s\" "
+"target=\"_blank\">en las configuraciones</a>."
+
+#: classes/advanced-ads-pro.php:217
+#, php-format
+msgid ""
+"<strong>Advanced Ads Pro</strong> is an extension for the Advanced Ads "
+"plugin. Please visit <a href=\"%s\" target=\"_blank\" >wpadvancedads.com</a> "
+"to download it for free."
+msgstr ""
+"<strong>Advanced Ads Pro</strong> es una extensión para el plugin de "
+"Advanced Ads. Por favor, visita <a href=\"%s\" target=\"_blank\" >"
+"wpadvancedads.com</a> para descargarlo gratuitamente."
+
+#: classes/advanced-ads-pro.php:372
+msgid ""
+"Please note, the “Ad Admin“ and the “Ad Manager“ roles have the "
+"“upload_files“ and the “unfiltered_html“ capabilities"
+msgstr ""
+"Por favor, ten presente que los roles del \"Super Administrador de "
+"Anuncios\" y el \"Administrador de Anuncios\" tienen las capacidades de "
+"\"subir_archivos\" y \"html_no_ filtrado\"\n"
+
+#: views/overview.php:3
+msgid "Visit the manual"
+msgstr "Consulta el manual"
+
+#: views/setting_autoptimize.php:2
+msgid ""
+"Advanced Ads Pro automatically disables Autoptimize for ads. Enable this "
+"option to allow Autoptimize to change the ad code. Especially JavaScript ads "
+"might stop working then."
+msgstr ""
+"Advanced Ads Pro automáticamente deshabilita Autoptimize para los anuncios. "
+"Habilita esta opción para permitirle a Autoptimize cambiar el código del "
+"anuncio. Los anuncios de JavaScript podrían dejar de funcionar."
+
+#: views/setting_output_once.php:2
+msgid "Display only once"
+msgstr "Mostrar solamente una vez"
+
+#: views/setting_output_once.php:5
+msgid "Display the ad only once per page"
+msgstr "Mostrar el anuncio solamente una vez por página"
+
+#: modules/admin-bar/admin-bar.class.php:30
+msgid "Ads"
+msgstr "Anuncios"
+
+#: modules/admin-bar/admin-bar.class.php:43
+msgid "No Ads found"
+msgstr "No se encontraron anuncios"
+
+#: modules/admin-bar/admin-bar.class.php:53
+msgid "ad"
+msgstr "anuncio"
+
+#: modules/admin-bar/admin-bar.class.php:54
+msgid "group"
+msgstr "grupo"
+
+#: modules/admin-bar/admin-bar.class.php:55
+msgid "placement"
+msgstr "colocación"
+
+#: modules/advanced-display-conditions/main.class.php:32
+#: modules/advanced-visitor-conditions/main.class.php:135
+msgid "url parameters"
+msgstr "Parámetros del URL"
+
+#: modules/advanced-display-conditions/main.class.php:33
+#: modules/advanced-visitor-conditions/main.class.php:136
+#, php-format
+msgid ""
+"Display ads based on the current url parameters (everything following %s)."
+msgstr ""
+"Mostrar anuncios basados en los parámetros actuales del URL (todo siguiendo "
+"%s)."
+
+#: modules/advanced-display-conditions/main.class.php:74
+msgid "WPML language"
+msgstr "Lenguaje WPML"
+
+#: modules/advanced-display-conditions/main.class.php:75
+msgid "Display ads based on the page’s language set with WPML."
+msgstr ""
+"Mostrar anuncios basados en el lenguaje de la página configurado en WPML"
+
+#: modules/advanced-display-conditions/main.class.php:388
+msgid "no languages set up in WPML"
+msgstr "No hay lenguajes configurados en WPML"
+
+#: modules/advanced-visitor-conditions/admin.class.php:16
+msgid "Advanced visitor conditions"
+msgstr "Condiciones avanzadas del visitante"
+
+#: modules/advanced-visitor-conditions/main.class.php:118
+msgid "referrer url"
+msgstr "URL de procedencia"
+
+#: modules/advanced-visitor-conditions/main.class.php:119
+msgid "Display ads based on the referrer url."
+msgstr "Mostrar anuncios basados en la URL de procedencia."
+
+#: modules/advanced-visitor-conditions/main.class.php:126
+msgid "user agent"
+msgstr "usuarios de agente"
+
+#: modules/advanced-visitor-conditions/main.class.php:127
+msgid ""
+"Display ads based on the user agent. <a href=\"http://www.useragentstring."
+"com/pages/useragentstring.php\" target=\"_blank\">List of user agents</a>."
+msgstr ""
+"Mostrar anuncios basados en el usuario de agente. <a href=\"http://www."
+"useragentstring.com/pages/useragentstring.php\" target=\"_blank\">Lista de "
+"usuarios de agente</a>."
+
+#: modules/advanced-visitor-conditions/main.class.php:144
+msgid "user can (capabilities)"
+msgstr "el usuario puede (capacidades)"
+
+#: modules/advanced-visitor-conditions/main.class.php:145
+msgid ""
+"Display ads based on the users capabilities. See <a href=\"https://codex."
+"wordpress.org/Roles_and_Capabilities\" target=\"_blank\">List of "
+"capabilities in WordPress</a>."
+msgstr ""
+"Mostrar anuncios basados en las capacidades del usuario. Ver <a href=\"https:"
+"//codex.wordpress.org/Roles_and_Capabilities\" target=\"_blank\">Listado de "
+"capacidades en WordPress</a>."
+
+#: modules/advanced-visitor-conditions/main.class.php:152
+msgid "browser language"
+msgstr "lenguaje del navegador"
+
+#: modules/advanced-visitor-conditions/main.class.php:153
+msgid "Display ads based on the visitors browser language."
+msgstr "Mostrar anuncios basados en el lenguaje del navegador del visitante."
+
+#: modules/advanced-visitor-conditions/main.class.php:160
+msgid "cookie"
+msgstr "cookie"
+
+#: modules/advanced-visitor-conditions/main.class.php:161
+msgid "Display ads based on the value of a cookie."
+msgstr "Mostrar anuncios basados en el valor de una cookie."
+
+#: modules/advanced-visitor-conditions/main.class.php:168
+msgid "page impressions"
+msgstr "impresiones de páginas"
+
+#: modules/advanced-visitor-conditions/main.class.php:169
+msgid ""
+"Display ads based on the number of page impressions the user already made "
+"(before the current on)."
+msgstr ""
+"Mostrar anuncios basados en el número de impresiones de página que el "
+"usuario haya hecho (antes de la actual)."
+
+#: modules/advanced-visitor-conditions/main.class.php:175
+msgid "max. ad impressions"
+msgstr "máximas impresiones de anuncio"
+
+#: modules/advanced-visitor-conditions/main.class.php:176
+msgid "Display the ad only for a few impressions in a given period per user."
+msgstr ""
+"Mostrar el anuncio, por usuario, solamente por unas pocas impresiones en un "
+"periodo de tiempo establecido."
+
+#: modules/advanced-visitor-conditions/main.class.php:182
+msgid "new visitor"
+msgstr "nuevo visitante"
+
+#: modules/advanced-visitor-conditions/main.class.php:183
+msgid "Display ads to new or returning visitors only."
+msgstr "Mostrar anuncios solamente a usuarios nuevos o que retornan."
+
+#: modules/advanced-visitor-conditions/main.class.php:264
+msgid "can"
+msgstr "puedes"
+
+#: modules/advanced-visitor-conditions/main.class.php:265
+msgid "can not"
+msgstr "no puedes"
+
+#: modules/advanced-visitor-conditions/main.class.php:351
+msgid "Cookie Name"
+msgstr "Nombre del Cookie"
+
+#: modules/advanced-visitor-conditions/main.class.php:352
+msgid "Cookie Value"
+msgstr "Valor del Cookie"
+
+#: modules/advanced-visitor-conditions/main.class.php:353
+#, php-format
+msgctxt "order of cookie visitor condition string"
+msgid "%1$s if %2$s is %3$s"
+msgstr "%1$s if %2$s is %3$s"
+
+#: modules/advanced-visitor-conditions/main.class.php:355
+msgid "Leave the value empty to check only the existance of the cookie."
+msgstr "Dejar el valor vacío para chequear solamente la existencia del cookie."
+
+#: modules/advanced-visitor-conditions/main.class.php:385
+#, php-format
+msgid "within %s seconds"
+msgstr "dentro de %s segundos"
+
+#: modules/background-ads/admin.class.php:24
+msgid "Background Ad"
+msgstr "Anuncio de Fondo"
+
+#: modules/background-ads/admin.class.php:25
+msgid "Background of the website behind the main wrapper."
+msgstr "Fondo del sitio web detrás del wrapper principal"
+
+#: modules/background-ads/admin.class.php:35
+msgid ""
+"Select a background color in case the background image is not high enough to "
+"cover the whole screen."
+msgstr ""
+"Seleccionar un color de fondo, en caso que la imagen de fondo no sea lo "
+"suficientemente alta para cubrir toda la pantalla."
+
+#: modules/background-ads/admin.class.php:39
+msgid "background"
+msgstr "Fondo"
+
+#: modules/bbpress/admin.class.php:26
+msgid "bbPress Static Content"
+msgstr "Contenido Estático bbPress"
+
+#: modules/bbpress/admin.class.php:27
+msgid "Display ads on bbPress related pages."
+msgstr "Mostrar anuncios en páginas relacionadas de bbPress"
+
+#: modules/bbpress/admin.class.php:31
+msgid "bbPress Reply Content"
+msgstr "Contenido de Respuesta de bbPress"
+
+#: modules/bbpress/admin.class.php:32
+msgid "Display ads in bbPress replies."
+msgstr "Mostrar anuncios en las respuestas de bbPress."
+
+#: modules/bbpress/admin.class.php:42 modules/bbpress/admin.class.php:58
+#: modules/buddypress/admin.class.php:38
+#: modules/inject-content/admin.class.php:122
+#: modules/inject-content/admin.class.php:137
+msgid "position"
+msgstr "Posición"
+
+#: modules/bbpress/admin.class.php:74
+#, php-format
+msgid "Inject at %s. post"
+msgstr "Inyectar a la entrada %s. "
+
+#: modules/bbpress/admin.class.php:80 modules/bbpress/admin.class.php:97
+msgid "forum topic page"
+msgstr "Página de tópico del foro"
+
+#: modules/bbpress/admin.class.php:84
+msgid "single forum page"
+msgstr "Página individual del foro"
+
+#: modules/bbpress/admin.class.php:88
+msgid "forums page"
+msgstr "Página de foros"
+
+#: modules/buddypress/admin.class.php:27
+msgid "BuddyPress Content"
+msgstr "Contenido BuddyPress"
+
+#: modules/buddypress/admin.class.php:28
+msgid "Display ads on BuddyPress related pages."
+msgstr "Mostrar anuncios en las páginas relacionadas de BuddyPress"
+
+#: modules/buddypress/admin.class.php:54
+#, php-format
+msgid "Inject at %s. entry"
+msgstr "Inyectar al rubro %s."
+
+#: modules/buddypress/admin.class.php:60
+msgid "Activity Entry"
+msgstr "Rubro de Actividad"
+
+#: modules/buddypress/admin.class.php:68
+msgid "Group List"
+msgstr "Lista de Grupo"
+
+#: modules/buddypress/admin.class.php:71
+msgid "Member List"
+msgstr "Lista de Miembros"
+
+#: modules/cache-busting/admin.class.php:16
+msgid "Cache Busting"
+msgstr "Almacenamiento en Caché"
+
+#: modules/cache-busting/cache-busting.class.php:853
+msgid "The ad can not work with passive cache-busting"
+msgstr "El anuncio no puede funcionar con una recuperación-de-caché pasiva"
+
+#: modules/cache-busting/cache-busting.class.php:855
+msgid "The ad can work with passive cache-busting"
+msgstr "El anuncio puede funcionar con una recuperación-de-caché pasiva"
+
+#: modules/cache-busting/cache-busting.class.php:861
+#: modules/cache-busting/views/settings.php:18
+msgid "passive"
+msgstr "Pasiva"
+
+#: modules/cache-busting/cache-busting.class.php:864
+msgid "The ad is displayed on the page"
+msgstr "El anuncio se muestra en esta página"
+
+#: modules/cache-busting/cache-busting.class.php:865
+msgid "The ad is not displayed on the page"
+msgstr "El anuncio no se muestra en esta página"
+
+#: modules/flash/ad-type-flash.php:33
+msgid "Flash File"
+msgstr "Archivo Flash "
+
+#: modules/flash/ad-type-flash.php:34
+msgid "Upload files and animations in the flash format (.swf)."
+msgstr "Subir archivos y animaciones en el formato flash (.swf). "
+
+#: modules/flash/ad-type-flash.php:52
+msgid "Url of the flash file."
+msgstr "URL del archivo flash."
+
+#: modules/flash/ad-type-flash.php:53
+msgid "Insert file url"
+msgstr "Insertar URL del archivo"
+
+#: modules/flash/ad-type-flash.php:54
+msgid "Insert File"
+msgstr "Insertar Archivo"
+
+#: modules/flash/ad-type-flash.php:54
+msgid "Insert"
+msgstr "Insertar"
+
+#: modules/flash/ad-type-flash.php:54
+msgid "Open Media Library"
+msgstr "Abrir Librería Multimedia"
+
+#: modules/flash/ad-type-flash.php:56
+msgid "Insert code that should be displayed if flash is not supported."
+msgstr ""
+"Insertar el código que debe ser mostrado si el formato flash no está "
+"soportado."
+
+#: modules/flash/admin.class.php:28
+msgid "Flash files"
+msgstr "Archivos flash"
+
+#: modules/grids/admin.class.php:35
+msgid "Size"
+msgstr "Tamaño"
+
+#: modules/grids/admin.class.php:44
+msgid "Inner margin"
+msgstr "Margen Interior"
+
+#: modules/grids/admin.class.php:50
+msgid "Min. width"
+msgstr "Ancho Mínimo"
+
+#: modules/grids/admin.class.php:64
+msgid "Random order"
+msgstr "Orden aleatorio"
+
+#: modules/grids/grids.class.php:28
+msgid "Grid"
+msgstr "Cuadrícula"
+
+#: modules/grids/grids.class.php:29
+msgid "Display multiple ads in a grid"
+msgstr "Mostrar múltiples anuncios en la cuadrícula"
+
+#: modules/group-refresh/admin.class.php:31
+msgid "Refresh interval"
+msgstr "Intervalo de Refrescamiento"
+
+#: modules/inject-content/admin.class.php:31
+msgid "Random Paragraph"
+msgstr "Párrafo Aleatorio"
+
+#: modules/inject-content/admin.class.php:32
+msgid "After a random paragraph in the main content."
+msgstr "Después de un párrafo aleatorio en el contenido principal."
+
+#: modules/inject-content/admin.class.php:38
+msgid "Above Headline"
+msgstr "Arriba de la Línea del Encabezado"
+
+#: modules/inject-content/admin.class.php:39
+msgid "Above the main headline on the page (&lt;h1&gt;)."
+msgstr "Arriba de la línea del encabezado principal en la página (&lt;h1&gt;)."
+
+#: modules/inject-content/admin.class.php:45
+msgid "Content Middle"
+msgstr "En la Mitad del Contenido"
+
+#: modules/inject-content/admin.class.php:46
+msgid "In the middle of the main content based on the number of paragraphs."
+msgstr "En la mitad del contenido principal pasado en el número de párrafos."
+
+#: modules/inject-content/admin.class.php:52
+msgid "Custom Position"
+msgstr "Posición Personalizada"
+
+#: modules/inject-content/admin.class.php:53
+msgid "Attach the ad to any element in the frontend."
+msgstr "Adjuntar el anuncio a cualquier elemento en el frente del sitio."
+
+#: modules/inject-content/admin.class.php:59
+msgid "Post Lists"
+msgstr "Lista de Entradas"
+
+#: modules/inject-content/admin.class.php:60
+msgid ""
+"Display the ad between posts on post lists, e.g. home, archives, search etc."
+msgstr ""
+"Mostrar el anuncio entre entradas en las listas de entradas, ej. inicio, "
+"archivos, búsquedas, etcétera."
+
+#: modules/inject-content/admin.class.php:78
+msgid "above"
+msgstr "arriba"
+
+#: modules/inject-content/admin.class.php:79
+msgid "inside, before other content"
+msgstr "adentro, antes de otro contenido"
+
+#: modules/inject-content/admin.class.php:80
+msgid "inside, after other content"
+msgstr "adentro, después de otro contenido"
+
+#: modules/inject-content/admin.class.php:81
+msgid "below"
+msgstr "abajo"
+
+#: modules/inject-content/admin.class.php:90
+msgid "by existing element"
+msgstr "Por elemento existente"
+
+#: modules/inject-content/admin.class.php:92
+msgid "Place ads in relation to an existing element in the frontend."
+msgstr ""
+"Posicionar anuncios en relación a un elemento existente en el frente el "
+"sitio."
+
+#: modules/inject-content/admin.class.php:93
+msgctxt "frontend picker"
+msgid "stop selection"
+msgstr "Parar la selección"
+
+#: modules/inject-content/admin.class.php:94
+msgid "select position"
+msgstr "seleccionar posición"
+
+#: modules/inject-content/admin.class.php:98
+msgid ""
+"Uses <a href=\"https://api.jquery.com/category/selectors/\" "
+"target=\"_blank\">jQuery selectors</a>, e.g. #container_id, .container_class"
+msgstr ""
+"Utilizar <a href=\"https://api.jquery.com/category/selectors/\" "
+"target=\"_blank\">selectores de jQuery</a>, ej. #container_id, ."
+"container_class"
+
+#: modules/inject-content/admin.class.php:99
+msgid "Position"
+msgstr "Posición"
+
+#: modules/inject-content/admin.class.php:109
+msgid "by new element"
+msgstr "Por nuevo elemento"
+
+#: modules/inject-content/admin.class.php:110
+msgid "Place the following element where the ad should be displayed."
+msgstr ""
+"Posicionar el siguiente elemento en donde el anuncio debe ser mostrado."
+
+#: modules/inject-content/admin.class.php:131
+#, php-format
+msgid "Inject before %s. post"
+msgstr "Inyectar antes de la %s. entrada"
+
+#: modules/inject-content/admin.class.php:133
+msgid "Before which post to inject the ad on post lists."
+msgstr ""
+"Antes de que entrada se debe inyectar el anuncio en las listas de entradas."
+
+#: modules/inject-content/admin.class.php:172
+msgid ""
+"Minimum length of content (in words) before automatically injected ads are "
+"allowed in them. Leave empty to use default setting. Default settings will "
+"also be used if they are lower."
+msgstr ""
+"Longitud mínima del contenido (en palabras) antes de que sea permitido "
+"inyectar automáticamente anuncios. Dejar vacío para utilizar el valor por "
+"defecto. Los valores por defecto también serán usados si son más bajos."
+
+#: modules/inject-content/admin.class.php:177
+msgid "minimum content length"
+msgstr "longitud mínima del contenido"
+
+#: modules/inject-content/inject-content.class.php:431
+#, php-format
+msgid "container (%s)"
+msgstr "contenedor (%s)"
+
+#: modules/inject-content/inject-content.class.php:432
+#, php-format
+msgid "image (%s)"
+msgstr "imagen (%s)"
+
+#: modules/inject-content/inject-content.class.php:433
+#, php-format
+msgid "table (%s)"
+msgstr "tabla (%s)"
+
+#: modules/inject-content/inject-content.class.php:434
+#, php-format
+msgid "list item (%s)"
+msgstr "Listar elemento (%s)"
+
+#: modules/inject-content/inject-content.class.php:439
+#, php-format
+msgid "any headline (%s)"
+msgstr "cualquier línea de encabezado (%s)"
+
+#: modules/inject-content/placement-tests.class.php:90
+#: modules/inject-content/placement-tests.class.php:91
+msgid "Save New Test"
+msgstr "Guardar Nueva Prueba"
+
+#: modules/inject-content/placement-tests.class.php:451
+msgctxt "placement tests"
+msgid "Expired placement tests"
+msgstr "Pruebas expiradas de colocaciones"
+
+#: modules/inject-content/placement-tests.class.php:480
+#: modules/inject-content/placement-tests.class.php:611
+#: modules/inject-content/views/placement_tests.php:36
+msgctxt "placement tests"
+msgid " vs "
+msgstr " vs "
+
+#: modules/inject-content/placement-tests.class.php:486
+msgctxt "placement tests"
+msgid "Placement page"
+msgstr "Página de Colocación"
+
+#: modules/inject-content/placement-tests.class.php:612
+#, php-format
+msgid "Placement test <em>%s</em> created"
+msgstr "Pruebas de colocación <em>%s</em> creadas"
+
+#: modules/weekdays/weekdays.class.php:81
+msgid "specific days"
+msgstr "Días específicos"
+
+#: modules/weekdays/weekdays.class.php:104
+#, php-format
+msgid "Shows up on: %s"
+msgstr "Se muestra en: %s"
+
+#: modules/weekdays/weekdays.class.php:106
+msgid "Never shows up"
+msgstr "Nunca se muestra"
+
+#: modules/advanced-display-conditions/views/referrer-url-metabox.php:1
+#: modules/advanced-visitor-conditions/views/referrer-url-metabox.php:1
+msgid "Display by referrer url"
+msgstr "Mostrar por URL de procedencia"
+
+#: modules/advanced-display-conditions/views/referrer-url-metabox.php:3
+#: modules/advanced-visitor-conditions/views/referrer-url-metabox.php:3
+msgid "Display ad depending on the external url the user comes from."
+msgstr ""
+"Mostrar el anuncio dependiendo de la URL externa de la cual proviene el "
+"usuario."
+
+#: modules/advanced-display-conditions/views/referrer-url-metabox.php:5
+#: modules/advanced-visitor-conditions/views/referrer-url-metabox.php:5
+msgid "URL"
+msgstr "URL"
+
+#: modules/advanced-display-conditions/views/referrer-url-metabox.php:15
+#: modules/advanced-visitor-conditions/views/referrer-url-metabox.php:15
+msgid "url of the referrer"
+msgstr "URL de procedencia"
+
+#: modules/advanced-visitor-conditions/views/settings.php:6
+msgid "Activate <em>advanced visitor conditions</em> module."
+msgstr "Activar el módulo de las <em>condiciones avanzadas del visitante</em>."
+
+#: modules/cache-busting/views/settings.php:11
+msgid "Activate <em>cache busting</em> module."
+msgstr "Activar el módulo de <em>almacenamiento en caché</em>."
+
+#: modules/cache-busting/views/settings.php:15
+msgid "Choose which method to use when cache-busting is set to “auto”."
+msgstr ""
+"Seleccionar qué método usar cuando la recuperación-de-caché se configure en "
+"\"auto\"."
+
+#: modules/cache-busting/views/settings.php:22
+msgid "AJAX"
+msgstr "AJAX"
+
+#: modules/cache-busting/views/settings.php:25
+msgid "Choose the fallback if “passive“ cache-busting is not possible."
+msgstr ""
+"Seleccionar el retroceso si la recuperación-de-caché \"pasiva\" no es "
+"posible."
+
+#: modules/cache-busting/views/settings.php:28
+msgid "Use AJAX"
+msgstr "Usar AJAX"
+
+#: modules/cache-busting/views/settings.php:32
+msgid "No cache-busting"
+msgstr "No usar recuperación-de-caché"
+
+#: modules/cache-busting/views/settings.php:37
+msgid ""
+"Enable passive cache-busting for all ads and groups which are not delivered "
+"through a placement, if possible."
+msgstr ""
+"Habilitar recuperación-de-caché pasiva para todos los anuncios y grupos  que "
+"no se muestran a través de una colocación, en lo posible."
+
+#: modules/cache-busting/views/settings.php:41
+#, php-format
+msgid ""
+"Please note that cache-busting only works through <a href=\"%s\">"
+"placements</a>."
+msgstr ""
+"Por favor, ten presente que la recuperación-de-caché solamente funciona "
+"través de las <a href=\"%s\">colocaciones</a>."
+
+#: modules/cache-busting/views/settings_check_ad.php:3
+#, php-format
+msgid ""
+"The code of this ad might not work properly with activated cache-busting. <a "
+"href=\"%s\" target=\"_blank\">Manual</a>"
+msgstr ""
+"El código de este anuncio puede no funcionar correctamente con la "
+"recuperación-de-caché activada. <a href=\"%s\" target=\"_blank\">Manual</a>"
+
+#: modules/flash/views/settings.php:6
+msgid "Activate <em>flash</em> module."
+msgstr "Activar el módulo de archivos <em>flash</em>."
+
+#: modules/grids/views/grid-option-size.php:5
+msgid "columns"
+msgstr "Columnas"
+
+#: modules/grids/views/grid-option-size.php:9
+msgid "rows"
+msgstr "Filas"
+
+#: modules/group-refresh/views/settings_group_refresh.php:2
+msgid "Enabled"
+msgstr "Habilitado"
+
+#: modules/group-refresh/views/settings_group_refresh.php:4
+msgid "milliseconds"
+msgstr "Milisegundos"
+
+#: modules/group-refresh/views/settings_group_refresh.php:6
+msgid "Refresh ads on the same spot"
+msgstr "Refrescar anuncios en el mismo sitio"
+
+#: modules/inject-content/views/placement_tests.php:3
+msgid "Placement tests"
+msgstr "Pruebas de Colocación"
+
+#: modules/inject-content/views/placement_tests.php:8
+msgid "Author"
+msgstr "Autor"
+
+#: modules/inject-content/views/placement_tests.php:9
+msgid "Expiry date"
+msgstr "Fecha de expiración"
+
+#: modules/inject-content/views/placement_tests.php:10
+msgid "Placements"
+msgstr "Colocaciones"
+
+#: modules/inject-content/views/placement_tests.php:38
+msgctxt "placement tests"
+msgid "empty"
+msgstr "Vacías"
+
+#: modules/inject-content/views/placement_tests.php:44
+msgctxt "checkbox to remove placement test"
+msgid "delete"
+msgstr "Borrar"
+
+#: modules/inject-content/views/placement_tests.php:52
+msgid "Save Tests"
+msgstr "Guardar Pruebas"
+
+#: modules/inject-content/views/placement_tests.php:56
+#, php-format
+msgid ""
+"Due to technical restrictions, when testing AdSense units, the limit in the "
+"plugin settings does not work. Please disable it <a href=\"%s\">here</a>."
+msgstr ""
+"Debido a restricciones técnicas, al probar las unidades de AdSense, el "
+"límite en la configuración del plugin no funciona. Por favor, deshabilítalo "
+"<a href=\"%s\">aquí</a>."
+
+#: modules/inject-content/views/setting_placement_test_weight.php:5
+msgctxt "placement tests"
+msgid "Testing"
+msgstr "Probando"
+
+#: modules/inject-content/views/setting_post_meta_box.php:4
+msgid "Disable ads inside the content"
+msgstr "Deshabilitar anuncios dentro del contenido"
+
+#: modules/inject-content/views/settings_test_expiry_date.php:4
+msgctxt "placement tests"
+msgid "Send email after"
+msgstr "Enviar correo después de"
+
+#: modules/inject-content/views/settings_test_expiry_date.php:14
+#, php-format
+msgctxt "1: month number (01, 02, etc.), 2: month abbreviation"
+msgid "%1$s-%2$s"
+msgstr "%1$s-%2$s"
+
+#: modules/inject-content/views/settings_test_expiry_date.php:27
+#, php-format
+msgctxt ""
+"order of expiry date fields 1: month, 2: day, 3: year, 4: hour, 5: minute"
+msgid "%1$s %2$s, %3$s @ %4$s %5$s"
+msgstr "%1$s %2$s, %3$s @ %4$s %5$s"
+
+#: modules/weekdays/views/ad-submitbox-meta.php:4
+msgid "Set specific days"
+msgstr "Establecer días específicos"
+
+msgid "Advanced Ads Pro"
+msgstr "Advanced Ads Pro"
+
+msgid "Advanced features to boost your ad revenue."
+msgstr ""
+"Características avanzadas para incrementar las ganancias de tus anuncios."
+
+#. URI of the plugin
+msgid "https://wpadvancedads.com/add-ons/advanced-ads-pro/"
+msgstr "https://wpadvancedads.com/add-ons/advanced-ads-pro/"
+
+msgid "Thomas Maier"
+msgstr "Thomas Maier"
+
+msgid "https://wpadvancedads.com"
+msgstr "https://wpadvancedads.com"
